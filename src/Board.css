@@ -1,49 +1,27 @@
 .square{
+    border : 1px solid lightseagreen;
     height: 40px;
     width: 40px;
     font-size: 24px;
     font-weight: bold;
     text-align: center;
+    background-color: azure;
+    float: left;
     margin: 60px;
 }
 
-/* button {
-    appearance: auto;
-    writing-mode: horizontal-tb !important;
-    text-rendering: auto;
-    color: white;
-    letter-spacing: normal;
-    word-spacing: normal;
-    line-height: normal;
-    text-transform: none;
-    text-indent: 0px;
-    text-shadow: none;
-    display: inline-block;
-    text-align: center;
-    align-items: flex-start;
-    cursor: default;
-    box-sizing: border-box;
-    background-color: gainsboro;
-    margin: 1em;
-    padding: 1px 6px;
-    border-width: 2px;
-    border-style: outset;
-    border-color: cyan;
-    border-image: initial;
-
-} */
-
-/* .square {
-    background: skyblue;
-    border: 2px solid violet;
+/* .square{
+    border : 1px solid plum;
     float: left;
     font-size: 24px;
     font-weight: bold;
     line-height: 34px;
     height: 34px;
-    margin-right: 50px;
-    margin-top: 50px;
-    padding: 4px;
-    text-align: center;
     width: 34px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    margin: 20px;
+    
 } */

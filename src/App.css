@@ -1,4 +1,7 @@
 .App {
   text-align: center;
+  background-color: beige;
+  background-image: url('./image/background.jpg');
+  background-size: 100% 100%;
 }
 
